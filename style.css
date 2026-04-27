@@ -6,6 +6,8 @@ body{
     background-color:#98FB98;
     display: flex;
     margin: 12px;
+        align-items: center;
+    justify-content: space-evenly;
 }
 
 div{
